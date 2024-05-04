@@ -4,7 +4,6 @@ My name is Arthur Vinícius and I'm a developer. Feel free to connect with me o
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vinicius-7bbb07107/)
 
 ### Hard Skills
-- Test-driven development (TDD)
 - Integration and unit testing
 - Design patterns
 - Object-oriented design
